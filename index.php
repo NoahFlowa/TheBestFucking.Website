@@ -9,7 +9,7 @@
 		But  honestly motherfucker, check out the Github repo if you want.  Feel free to fork this and create your own
 		just give me a shout out you fuck :D
 
-		Repo: 
+		Repo: https://github.com/NoahFlowa/TheBestFucking.Website
     -->
 
 	<!-- Required meta tags -->
@@ -55,6 +55,48 @@
 					<li>Google Fonts</li>
 					<li>Fontawesome 5</li>
 				</ul>
+
+				<br>
+
+				<h3>But guess what, fucker?</h3>
+				<p>This fucking website displays cleanly and the same on all fucking devices, and looks good doing so</p>
+
+				<br>
+
+				<h3>Put some styling in your website</h3>
+				<p>It's not that hard genius, use <span style="color: #22c2fc;" data-toggle="tooltip" data-placement="top" title="Content Delivery Network(s)">CDNs</span> to always be updated and spend the time making it look good. A monkey can make any plain fuckin website, but only you can style it the way you want</p>
+
+				<br>
+
+				<h3>Keep the same fucking rules in mind</h3>
+				<p>My predecessors have some good fucking rules like:</p>
+				<ul>
+					<li>Have an off brand black [<code>&lt;style="color: #333"&gt;</code>] and white [<code>&lt;style="color: #EEE"&gt;</code>]</li>
+					<li>Do some spacing [<code>&lt;style="margin: 40px;&gt;</code>] and [<code>&lt;style="padding: 0;"&gt;</code>] don't forget [<code>&lt;style="line-height: 1.4;"&gt;</code>]</li>
+					<li>Don't make your grandma squint to read your fucking website, make that font yuge, unlike you in bed [<code>&lt;style="font-size: 16px;"&gt;</code>]</li>
+					<li>Most of the internet is consumed on phones now a days, so don't put 300 words in a fucking paragraph, cut that shit up and space it out. 60 - 80 words per motherfucker</li>
+				</ul>
+				<p>Go ahead and add that shit up top to your site, I already gave you the code for fucks sake. Take it</p>
+
+				<br>
+
+				<h3>iS tHiS a ClOnE?</h3>
+			
+				<p>Fuck yes it is! I love what <a href="http://motherfuckingwebsite.com">Motherfuckingwebsite.com</a> and <a href="bettermotherfuckingwebsite.com">bettermotherfuckingwebsite.com</a> did and decided to do it in Bootstrap 4 and other technolgies for fun. These tools are out there for free* and are amazing, you'd be fucking crazy not to use them, unless you use something like Squarespace or Wix. Like my predecessors say: "You and all the other web designers out there need to make them not total shit."</p>
+
+				<br>
+				
+				<div class="progress">
+					<div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+				</div>
+				
+				<br>
+				
+				<h3>Epilogue</h3>
+				<p>Inspired by the smartass' over at <a href="http://motherfuckingwebsite.com">motherfuckingwebsite.com</a></p>
+				<p>This fucking website however was created by this jackass over here - <a href="https://noahosterhout.com">Moi</a></p>
+				
+				<br>
 			</div>
 			<div class="col">
 				<!-- Or here -->

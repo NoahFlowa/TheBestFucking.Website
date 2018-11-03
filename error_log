@@ -1,6 +1,0 @@
-[30-Oct-2018 16:37:29 America/New_York] PHP Warning:  require(navbar.php): failed to open stream: No such file or directory in /home/noahnkes/thebestfucking.website/index.php on line 38
-[30-Oct-2018 16:37:29 America/New_York] PHP Warning:  require(navbar.php): failed to open stream: No such file or directory in /home/noahnkes/thebestfucking.website/index.php on line 38
-[30-Oct-2018 16:37:29 America/New_York] PHP Fatal error:  require(): Failed opening required 'navbar.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/noahnkes/thebestfucking.website/index.php on line 38
-[30-Oct-2018 16:39:56 America/New_York] PHP Warning:  require(navbar.php): failed to open stream: No such file or directory in /home/noahnkes/thebestfucking.website/index.php on line 38
-[30-Oct-2018 16:39:56 America/New_York] PHP Warning:  require(navbar.php): failed to open stream: No such file or directory in /home/noahnkes/thebestfucking.website/index.php on line 38
-[30-Oct-2018 16:39:56 America/New_York] PHP Fatal error:  require(): Failed opening required 'navbar.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/noahnkes/thebestfucking.website/index.php on line 38
